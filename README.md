@@ -29,7 +29,7 @@ A lightweight, framework-agnostic color picker component for React applications.
 
 | Package Name         | Bundle Size | Gzipped Size | Dependencies |
 |----------------------|-------------|--------------|--------------|
-| react-color-pro      | 10.39 kB    | 4.37 kB      | 0            |
+| react-color-pro      | 14.39 kB    | 4.37 kB      | 0            |
 | react-color          | 143.7 kB    | 36.4 kB      | 7            |
 | react-input-color    | 54.1 kB     | 18.7 kB      | 6            |
 | rc-color-picker      | 114.5 kB    | 32.8 kB      | 5            |
